@@ -1,0 +1,51 @@
+@media(max-width: 1399px)
+{
+	.banner5 .st {
+	    padding: 80px 50px;
+	}
+    iframe{
+    	width: 700px !important;
+    	height: 400px !important;
+
+    }
+}
+@media(max-width: 1199px)
+{
+	.banner5 .st {
+	    padding: 80px 20px;
+	}
+    iframe{
+    	width: 600px !important;
+    	height: 350px !important;
+
+    }
+}
+@media(max-width: 991px)
+{
+	.discount{
+	    margin-top: 83px;
+	}
+	.banner5 .st {
+    	padding: 80px 100px;
+    }
+}
+@media(max-width: 767px)
+{
+	.banner5 .st {
+    	padding: 80px 50px;
+    }
+    iframe{
+    	width: 90% !important;
+    	height: 250px !important;
+
+    }
+}
+@media(max-width: 575px)
+{
+	.banner1{
+		padding: 50px 0px;
+	}
+	.cpy{
+		padding: 0px 10px;
+	}
+}
